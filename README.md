@@ -9,7 +9,7 @@ Features
 ---
 - Choosing target process by pid.
 - Device selection.
-- XOM dumping.
+- [XOM](https://source.android.google.cn/docs/security/test/execute-only-memory?hl=zh-cn) dumping.
 - Dump all readable memory by default, and executable memory if required.
 
 Usage
